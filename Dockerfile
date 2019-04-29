@@ -2,9 +2,9 @@ FROM afuscella/opensuse:jre8u181
 MAINTAINER Arthur Silva <fuscellaarthur@gmail.com>
 
 # General information
-LABEL br.afuscella.opensuse.version="1.0.0"
-LABEL br.afuscella.opensuse.vendor="Arthur Fuscella Silva"
-LABEL br.afuscella.opensuse.name="Docker for SAP Cloud Connector (Linux x64)"
+LABEL br.afuscella.scc.version="1.0.0"
+LABEL br.afuscella.scc.vendor="Arthur Fuscella Silva"
+LABEL br.afuscella.scc.name="Docker for SAP Cloud Connector (Linux x64)"
 
 # SCC Version
 ENV SCC_VERSION_MAJOR 2
