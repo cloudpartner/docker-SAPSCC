@@ -1,7 +1,7 @@
 # docker-SAPSCC
 
 [2019-04-29] The Dockerfile contains version 2.12.0.1 of SAP Cloud Connector
-[initial version] The Dockerfile contains version 2.11.3 of SAP Cloud Connector **(deprecated)**
+<br />[initial version] The Dockerfile contains version 2.11.3 of SAP Cloud Connector **(deprecated)**
 
 Ready to use in containers. Just check for the appropriate **dockers tags before pulling**. 
 
